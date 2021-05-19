@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagungiri
 - 👀 I’m interested in Front end Development
-- 🌱 I’m currently learning Bsc.CSIT
+- 🌱 I’m currently studying Bsc.CSIT
 - 💻 I've good knowledge of following technologies:
     HTML5, CSS3/SCSS/BOOTSTRAP, 
     JavaScript, jQuery, React JS, React Hooks, Redux, Angular, Ionic Framework, 
