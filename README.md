@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursing my bachelor degree in Computer Science and Information Technology.
 - 💻 I've good knowledge of following technologies:
     HTML5, CSS3/SCSS/BOOTSTRAP, 
-    JavaScript, jQuery, React JS, React Hooks, Redux, Angular, Ionic Framework, 
+    JavaScript, jQuery, React JS, Angular, Ionic Framework, 
     SQL basics, 
     Linux fundamentals
 - 📫 You can reach me through this mail: gireesagun998@gmail.com
